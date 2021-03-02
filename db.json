@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Wash Car",
+      "day": "2021-03-16",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Clean Room",
+      "day": "2021-03-10",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Mow Yard",
+      "day": "2021-03-24",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
